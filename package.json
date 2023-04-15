@@ -7,11 +7,17 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NovikoffOleh/goit-nodejs-hw-001_CLI"
+  },
   "author": "OlehNovikoff",
   "license": "ISC",
+  "homepage": "https://github.com/NovikoffOleh/goit-node-hw-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.22"
   },
+
   "dependencies": {
     "chalk": "^4.1.2",
     "joi": "^17.9.1",
